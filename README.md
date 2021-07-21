@@ -74,7 +74,7 @@ https://github.com/andrelreis/geofisica2
 
 As versões ao final de cada ano são marcadas com um *tag* e podem ser vistas em:
 
-https://github.com/andrelreis/geofisica1/releases
+https://github.com/andrelreis/geofisica2/releases
 
 
 ## License
