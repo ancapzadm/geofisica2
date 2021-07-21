@@ -1,29 +1,28 @@
-# Geofísica II (FGEL04-?)
+# Geofísica II (FGEL04-12422)
 Disciplina obrigatória para o curso de Geologia da Faculdade de Geologia da Universidade do Estado do Rio de Janeiro (FGEL/UERJ).
 
 **Professor**: [André Luis A. Reis](https://www.pinga-lab.org/people/andre.html)
 
 **E-mails:** reisandreluis@gmail.com / andre.reis@uerj.br
 
-**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e o programa de pós-graduação não possuem qualquer responsabilidade sobre o seu conteúdo.
+**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e o programa de pós-graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
 
 ## Ementa
 
-Comportamento radiométrico de rochas e sua importância no mapeamento geológico e prospecção mineral. Radiação. Levantamentos radiométricos, gamaespectometro. Método gravimétrico: Lei da atração gravitacional, densidade de minerais e rochas, gravimetro, reduções aplicadas aos dados. Método magnetométrico: magnetismo de minerais e rochas, fontes do campo magnético, o IGRF, reduções aplicadas aos dados, campo magnético produzido por corpos de forma geométrica simples e seus equivalentes geológicos; transformações do campo de anomalias: continuação, derivadas, redução ao pólo. Interpretação das anomalias: problema direto; problema inverso e a não unicidade da solução.
+Métodos Geoelétricos: equações de maxwell, resistividades de minerais e rochas, aquisição de dados - tipos de arranjos geoelétricos, Potencial espontâneo, polarização induzida, exemplos de aplicações em geologia. Método Sísmicos: stress e strain, ondas elásticas, geometria dos caminhos da onda, ondas direta, refratada e refletida, interface, equipamentos para aquisição de dados. Sísmica de refração: refração crítica e head-waves, gráfico tempo-distância (T-X), interfaces horizontais e mergulhantes, aplicações em geologia. Sísmica de reflexão: velocidades sísmicas, Normal-mobeout (NMO), Dip-moveout (DMO), empilhamento (stacking), migração, levantamentos 2D e 3D, aplicações na exploração de hidrocarbonetos. Geofísica de Poço (well-log): introdução, perfuração de poços e seus efeitos nas rochas, metodologias mais aplicadas na atualidade, usos na indústria do petróleo e na exploração mineral.
 
-Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.php?cdg_disciplina=12421)
+Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.php?cdg_disciplina=12422)
 
 ## Tópicos do curso
 
-* Campo de gravidade da Terra
-* Gravimetria
-* Campo magnético da Terra
-* Magnetometria
-* Processamento e interpretação de dados potenciais
-* Modelagem direta e inversão de campos potenciais
-* Transformações de campos potenciais
-* Radiação e comportamento radiométrico das rochas
-* Gamaespectrometria
+* Sismologia, tipos de ondas e propagação de ondas
+* Sísmica de Reflexão
+* Sísmica de Refração
+* Processamento de dados sísmicos
+* Teoria eletromagnética
+* Métodos elétricos
+* Métodos eletromagnéticos
+* Perfilagem de poço
 
 ## Cronograma
 
@@ -31,16 +30,17 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 
 Semana | Tema                                 | Código |
 |:------:|:-------------------------------------|:-------:|
-| 0    | Apresentação do curso e introdução a geofísica  |    |
-| 1    | Campo gravitacional, Terra Normal e distúrbio de gravidade  |  |
-| 2    | Topografia, anomalia bouguer e isostasia | |
-| 3    | Estudos de caso (Havaí e Brasil) | |
-| 4    | Modelagem gravimétrica |  |
-| 5    | Campo geomagnético e anomalia de campo total  | |
-| 6    | Modelagem magnética | |
-| 7    | Transformações de campo: derivadas, redução ao polo e continuação para cima  | |
-| 8    | Introdução ao comportamento radiométrico das rochas | |
-| 9    | Método gamaespectrométrico | |
+| 0    | Apresentação do curso |    |
+| 1    | Sismologia e propagação de ondas  |  |
+| 2    | Sísmica de Refração  | |
+| 3    | Sísmica de Reflexão | |
+| 4    | Processamento de dados sísmicos |  |
+| 5    | Introdução a Inversão - Fullwaveform inversion (FWI)   | |
+| 6    | Teoria da indução eletromagnética e a condutividade elétrica na Terra | |
+| 7    | Métodos IP e SP  | |
+| 8    | Método TDEM | |
+| 9    | Método Magnetotelúrico| |
+| 10   | Perfilagem de poço | |
 
 ## Avaliação
 
@@ -55,19 +55,15 @@ listas de figuras,tabelas ou referências bibliográficas). As apresentações
 deverão ter entre 20 e 40 minutos de duração, mais 10 minutos de arguição.
 Os alunos que não apresentarem serão automaticamente **reprovados**.
 
-- **Prazo máximo para entrega do tema** - (26/10)
-- **Entrega da monografia** - (09/11)
-- **Ciclo de palestras dos alunos** - (09/11 a 23/11)
+- **Prazo máximo para entrega do tema** - (20/10)
+- **Entrega da monografia** - (03/11)
+- **Ciclo de palestras dos alunos** - (03/11 - 17/11)
 
 ## Referências bibliográficas
 
-* Blakely, R. J., 1996, *Potential theory in gravity and magnetic applications*. Cambridge
-University Press.
-* Hofmann-Wellenhof, B. e H. Moritz, 2005, *Physical Geodesy*. Springer.
-* Langel, R. A. e W. J. Hinze, 1998, *The magnetic field of the Earth's lithosphere: the
-satellite perspective*. Cambridge University Press.
-* Telford, W. M.; Geldart, L. P.; Sheriff, R. E. & Keys, D. A., 1976. *Applied Geophysics*. Cambridge University Press.
-* Fowler, C. M. R. , 2004, *The Solid Earth: An Introduction to Global Geophysics*. Cambridge University Press.
+* Kearey, P., M. Brooks, and I. Hill, 2002, *An Introduction to Geophysical Exploration*, 3 edition., Wiley-Blackwell, Malden, MA.
+* Sheriff, R. E., and L. P. Geldart, 1995, *Exploration Seismology*, 2 edition., Cambridge University Press, Cambridge ; New York.
+* Stein, S., and M. Wysession, 2002, *An Introduction to Seismology, Earthquakes and Earth Structure*, 1 edition., Wiley-Blackwell, Malden, MA.
 * Periódicos da área
 
 ## Material
