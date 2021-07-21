@@ -1,4 +1,4 @@
-# Geofísica I (FGEL04-12421)
+# Geofísica II (FGEL04-?)
 Disciplina obrigatória para o curso de Geologia da Faculdade de Geologia da Universidade do Estado do Rio de Janeiro (FGEL/UERJ).
 
 **Professor**: [André Luis A. Reis](https://www.pinga-lab.org/people/andre.html)
