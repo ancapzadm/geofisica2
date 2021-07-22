@@ -31,7 +31,7 @@ Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.p
 Semana | Tema                                 | Código |
 |:------:|:-------------------------------------|:-------:|
 | 0    | Apresentação do curso |    |
-| 1    | Sismologia e propagação de ondas  |  |
+| 1    | Sismologia e propagação de ondas  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrelreis/geofisica2/HEAD) |
 | 2    | Sísmica de Refração  | |
 | 3    | Sísmica de Reflexão | |
 | 4    | Processamento de dados sísmicos |  |
