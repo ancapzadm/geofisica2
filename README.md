@@ -31,7 +31,7 @@ Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.p
 Semana | Tema                                 | Código |
 |:------:|:-------------------------------------|:-------:|
 | 0    | Apresentação do curso |    |
-| 1    | Sismologia e propagação de ondas  | [notebook](https://nbviewer.jupyter.org/github/andrelreis/geofisica2/blob/main/Content/codes/1.%20PREM.ipynb) |
+| 1    | Sismologia e o PREM  | [notebook](https://nbviewer.org/github/andrelreis/geofisica2/blob/main/Content/codes/aula_1/1.%20Reference_Model_Earth.ipynb) |
 | 2    | Sísmica de Refração  | |
 | 3    | Sísmica de Reflexão | |
 | 4    | Processamento de dados sísmicos |  |
