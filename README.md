@@ -32,7 +32,7 @@ Semana | Tema                                 | Código |
 |:------:|:-------------------------------------|:-------:|
 | 0    | Apresentação do curso |    |
 | 1    | Sismologia e o PREM  | [notebook](https://nbviewer.org/github/andrelreis/geofisica2/blob/main/Content/codes/aula_1/1.%20Reference_Model_Earth.ipynb) |
-| 2    | Propagação de ondas: reflexão e refração  |[notebook](https://github.com/andrelreis/geofisica2/blob/main/Content/codes/aula_2/1.%20FDWave_reflection_refraction.ipynb) |
+| 2    | Propagação de ondas: reflexão e refração  |[notebook](https://nbviewer.org/github/andrelreis/geofisica2/blob/main/Content/codes/aula_2/1.%20FDWave_reflection_refraction.ipynb) |
 | 3    | Sísmica de Reflexão | |
 | 4    | Processamento de dados sísmicos |  |
 | 5    | Introdução a Inversão - Fullwaveform inversion (FWI)   | |
